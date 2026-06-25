@@ -1,9 +1,10 @@
-# superpowers / interni dokumenti (nikad u git)
 docs/superpowers/
 .claude/
 
-# veliki sirovi podaci
 data/raw/
+
+data/processed/*.npz
+models/*.joblib
 
 # python
 __pycache__/
