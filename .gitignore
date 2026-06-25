@@ -1,0 +1,20 @@
+# superpowers / interni dokumenti (nikad u git)
+docs/superpowers/
+.claude/
+
+# veliki sirovi podaci
+data/raw/
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# jupyter
+.ipynb_checkpoints/
+
+# os
+.DS_Store
+Thumbs.db
