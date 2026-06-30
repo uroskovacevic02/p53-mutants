@@ -6,6 +6,11 @@ data/raw/
 data/processed/*.npz
 models/*.joblib
 
+# tectonic (lokalni LaTeX binarni fajl)
+.tools/
+docs/_chk_*.png
+docs/dokumentacija.tex
+
 # python
 __pycache__/
 *.py[cod]
